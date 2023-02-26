@@ -15,7 +15,7 @@ retrieval.
 4. Create a live geo visualization dashboard using Streamlit and Plotly in Python
 to display the data in an interactive and visually appealing manner.
 5. Fetch the data from the MySQL database to display in the dashboard.
-6. Provide at least 10 different dropdown options for users to select different
+6. Provide different dropdown options for users to select different
 facts and figures to display on the dashboard.
 
 ***Users will be able to access the dashboard from a web browser and easily navigate
